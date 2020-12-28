@@ -5,6 +5,10 @@ import javax.swing.SwingUtilities;
  * 
  * '날짜정보 스트링 생성'기능은 makeDateLog() 메소드를 사용하여 수행한다.
  * '운동기록 스트링 생성'기능은 makeUserLog() 메소드를 사용하여 수행한다.
+<<<<<<< HEAD
+=======
+ * 
+>>>>>>> 7af0be90c448cfb2c0bc3ec22899b80e36ac8335
  * '달력 작성하기'기능은 writeCalendar() 메소드를 사용하여 수행한다.
  * '달력 보기'기능은 checkCalendar() 메소드를 사용하여 수행한다.
  * 

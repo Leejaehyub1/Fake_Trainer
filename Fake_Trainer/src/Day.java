@@ -19,7 +19,11 @@ public class Day {
 	private int date;
 	
 	private ArrayList<TodayExer> exerList = new ArrayList<TodayExer>(); // 하루동안 수행한 운동정보를 저장
+<<<<<<< HEAD
 	private int exerNum;    // exerList의 사이즈
+=======
+	private int exerNum;    // 하루동안 수행한 운동종목의 개수
+>>>>>>> 7af0be90c448cfb2c0bc3ec22899b80e36ac8335
 	private int calorieSum; // 하루동안 소모한 총 칼로리
 	
 	public Day() {

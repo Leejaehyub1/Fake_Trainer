@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7af0be90c448cfb2c0bc3ec22899b80e36ac8335
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -10,7 +13,14 @@ import javax.swing.*;
  * 팀 프로젝트를 목적으로 원작자로부터 코드 사용을 허락 받았으며
  * 프로젝트의 기능에 맞게 임의로 함수를 수정했음을 명시합니다.
  * originally uploaded to http://blog.naver.com/azure0777
+<<<<<<< HEAD
  */
+=======
+ * 
+ */
+
+
+>>>>>>> 7af0be90c448cfb2c0bc3ec22899b80e36ac8335
 class CalendarDataManager { // 6*7 배열에 나타낼 달력 값을 구하는 클래스
 
 	static final int CAL_WIDTH = 7;

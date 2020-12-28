@@ -1,10 +1,17 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7af0be90c448cfb2c0bc3ec22899b80e36ac8335
 import java.util.*;
 /**
  * Trainer 클래스는'가짜 트레이너'프로그램 동작을 위한 클래스이다.
  * 이 클래스는 main method를 가지고 있으며, 사용자에 의해 프로그램의 기능이 선택될 수 있도록 전반적인 흐름을 제공한다.
  * 
+<<<<<<< HEAD
  * @author LEE JAE-HYUB, HUH CHANG-HYUN
+=======
+ * @author HUH CHANG-HYUN, LEE JAE-HYUB
+>>>>>>> 7af0be90c448cfb2c0bc3ec22899b80e36ac8335
  */
 public class Trainer {
 	

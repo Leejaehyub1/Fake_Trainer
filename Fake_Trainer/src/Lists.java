@@ -1,7 +1,11 @@
 
 import java.util.*;
 /**
+<<<<<<< HEAD
  * Lists 클래스는 운동정보를 운동부위별로 분류하여 저장하기 위해 필요한 클래스이다.
+=======
+ * Lists 클래스는 운동정보를 운동 부위별로 분류하여 저장하기 위해 필요한 클래스이다.
+>>>>>>> 7af0be90c448cfb2c0bc3ec22899b80e36ac8335
  * 
  * @author HUH CHANG-HYUN
  */
@@ -42,7 +46,11 @@ public class Lists {
 		Part_List.add(p4);
 
 		Part p5 = new Part("하체");
+<<<<<<< HEAD
 		p5.AddExerciseInfo("스쿼트", 30, 120, 27, "https://www.youtube.com/watch?v=f8GRxHJhn_M");
+=======
+		p5.AddExerciseInfo("스쿼트", 30, 5, 27, "https://www.youtube.com/watch?v=f8GRxHJhn_M");
+>>>>>>> 7af0be90c448cfb2c0bc3ec22899b80e36ac8335
 		p5.AddExerciseInfo("와이드 스쿼트", 30, 120, 27, "https://www.youtube.com/watch?v=Gp4Cho7z5HU");
 		p5.AddExerciseInfo("런지", 20, 90, 18, "https://www.youtube.com/watch?v=oYiBDWhmrX8");
 		p5.AddExerciseInfo("카프레이즈", 30, 90, 18, "https://www.youtube.com/watch?v=UBEYmHEC9PE");

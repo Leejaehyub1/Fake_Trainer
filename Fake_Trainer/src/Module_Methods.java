@@ -7,10 +7,17 @@ import java.net.URISyntaxException;
 import java.util.Timer;
 import java.util.TimerTask;
 /**
+<<<<<<< HEAD
  * Module_Methods 클래스는 영상 시청 및 스탑워치 실행을 위해 필요한 클래스이다.
  *
  * '안내 영상 시청'기능은 ShowVideo() 메소드를 사용하여 수행한다.
  * '스탑워치'기능은 TimeWatch() 메소드를 사용하여 수행한다.
+=======
+ * Module_Methods 클래스는 두 가지 메소드를 가지고 있다.
+ * 
+ * '안내 영상 시청'은 ShowVideo() 메소드를 사용하여 수행한다.
+ * '운동 시작 후 타이머 기능'은 TimeWatch() 메소드를 사용하여 수행한다.
+>>>>>>> 7af0be90c448cfb2c0bc3ec22899b80e36ac8335
  * 
  * @author LEE JAE-HYUB
  */

@@ -1,9 +1,16 @@
 
 /**
+<<<<<<< HEAD
  * Customer 클래스는 회원정보 등록 및 조회와 운동 수행을 관리하기 위한 클래스이다.
  * 
  * '회원정보 조회'기능은 existCustomer() 메소드를 사용하여 수행한다.
  * '회원정보 등록'기능은 addCustomer() 메소드를 사용하여 수행한다.
+=======
+ * Customer 클래스는 회원정보 등록 및 조회와 운동기록 관리를 위한 클래스이다.
+ * '회원정보 조회'기능은 existCustomer() 메소드를 사용하여 수행한다.
+ * '회원정보 등록'기능은 addCustomer() 메소드를 사용하여 수행한다.
+ * 
+>>>>>>> 7af0be90c448cfb2c0bc3ec22899b80e36ac8335
  * '로그인'기능은 login() 메소드를 사용하여 수행한다.
  * '운동하기'기능은 exercise() 메소드를 사용하여 수행한다.
  * 
@@ -12,7 +19,11 @@
  * 		ANJIYOUNG, 1.0.1, 2020.12.26
  * 		ANJIYOUNG, 1.0.2, 2020.12.27 상속관계 수정
  * 
+<<<<<<< HEAD
  * @author AN JI-YOUNG
+=======
+ * @author ANJIYOUNG
+>>>>>>> 7af0be90c448cfb2c0bc3ec22899b80e36ac8335
  * @version 1.0.2 2020.12.27
  */
 public class Customer {
